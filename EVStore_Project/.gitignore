@@ -1,0 +1,18 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# He dieu hanh
+Thumbs.db
+.DS_Store
+
+# Bien moi truong (chua mat khau, khoa bi mat)
+.env
+.env.local
+
+# Build
+target/
+node_modules/
+dist/
+*.log
